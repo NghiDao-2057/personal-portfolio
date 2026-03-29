@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Đào Nguyễn Uyển Nghi — Intern QA/QC Engineer Portfolio",
   description:
     "Portfolio cá nhân của Đào Nguyễn Uyển Nghi — Sinh viên năm 4 Kỹ thuật Phần mềm, ứng tuyển vị trí Intern QA/QC Engineer.",
-  icons: { icon: "/favicon.ico" },
+  icons: { icon: "/favicon.svg" },
 };
 
 export default function RootLayout({
